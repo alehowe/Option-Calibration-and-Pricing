@@ -1,2 +1,3 @@
-# Option-Calibration-and-Pricing
-The project calibrates an HJM model on German electricity swaps and prices structured payoffs
+# Guidelines
+This project employs quantitative methodologies to calibrate an HJM model on German electricity swaps. The calibration includes a two-factor HJM model with both constant and time-dependent parameters. Additionally, the project prices a down-and-in call option using Monte Carlo simulations.
+You can find the problem statement [here](https://github.com/alehowe/Option-Calibration-and-Pricing/blob/main/Project_B.pdf). A detailed explanation of the methodologies used is included in the [report](https://github.com/alehowe/Option-Calibration-and-Pricing/blob/main/Report_Group5.pdf). To execute the project, please refer to this [file](https://github.com/alehowe/Option-Calibration-and-Pricing/blob/main/RunProject5.m)
